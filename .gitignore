@@ -1,3 +1,8 @@
+# GitHub pages
+_site
+*.lock
+
+
 *.gem
 *.rbc
 /.config
