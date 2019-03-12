@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 repository: RealVNF/realvnf.github.io
+title: "RealVNF"
+description: "Improved coordination of chained VNFs under realistic conditions"
