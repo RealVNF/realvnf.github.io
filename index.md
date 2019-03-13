@@ -16,11 +16,16 @@ As the project evolves, this website will be updated continuously to point to pu
 
 ## Team
 
-Project lead: Stefan Schneider ([GitHub](https://github.com/stefanbschneider/), [LinkedIn](https://www.linkedin.com/in/stefanbschneider/), [Twitter](https://twitter.com/stefan_schn))
+Project lead: Stefan Schneider, Paderborn University ([GitHub](https://github.com/stefanbschneider/), [LinkedIn](https://www.linkedin.com/in/stefanbschneider/), [Twitter](https://twitter.com/stefan_schn))
 
-Student researchers and developers: TODO
+Industrial partners:
 
+* 
+
+Student researchers and developers:
+
+* Sven Uthe, Paderborn University
 
 * * *
 
-*Logo made with [DesignEvo](https://www.designevo.com/en/). Website built with Jekyll and the [Cayman theme](https://github.com/pages-themes/cayman), deployed using GitHub pages.*
+*Logo made with [DesignEvo](https://www.designevo.com/en/). Website built with Jekyll and the [Cayman theme](https://github.com/pages-themes/cayman).*
