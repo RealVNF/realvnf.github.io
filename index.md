@@ -31,6 +31,8 @@ Industrial partners:
 
 Student researchers and developers:
 
+* Adnan Manzoor ([GitHub](https://github.com/adnan904))
+
 * Haydar Qarawlus, Paderborn University ([GitHub](https://github.com/qarawlus/), [LinkedIn](https://www.linkedin.com/in/qarawlus))
 * Sven Uthe, Paderborn University
 
