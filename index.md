@@ -20,12 +20,13 @@ Project lead: Stefan Schneider, Paderborn University ([GitHub](https://github.co
 
 Industrial partners:
 
-* 
+* Artur Hecker, Huawei Munich Research Center
+* Ramin Khalili, Huawei Munich Research Center
+* Xun Xiao, Huawei Munich Research Center
 
 Student researchers and developers:
 
+* Haydar Qarawlus, Paderborn University ([GitHub](https://github.com/qarawlus/), [LinkedIn](https://www.linkedin.com/in/qarawlus))
 * Sven Uthe, Paderborn University
-
-* * *
 
 *Logo made with [DesignEvo](https://www.designevo.com/en/). Website built with Jekyll and the [Cayman theme](https://github.com/pages-themes/cayman).*
