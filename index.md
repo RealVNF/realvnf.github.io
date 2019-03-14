@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p align="center"><img src="realvnf_logo.png"/></p>
+<p align="center"><img src="assets/realvnf_logo.png"/></p>
 
 # A Software Campus project
 
