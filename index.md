@@ -16,6 +16,11 @@ As the project evolves, this website will be updated continuously to point to pu
 
 ## Team
 
+<p align="center">
+	<img src="assets/upb.png" width="200" hspace="20"/>
+	<img src="assets/huawei_horizontal.png" width="200" hspace="20"/>
+</p>
+
 Project lead: Stefan Schneider, Paderborn University ([GitHub](https://github.com/stefanbschneider/), [LinkedIn](https://www.linkedin.com/in/stefanbschneider/), [Twitter](https://twitter.com/stefan_schn))
 
 Industrial partners:
@@ -29,4 +34,8 @@ Student researchers and developers:
 * Haydar Qarawlus, Paderborn University ([GitHub](https://github.com/qarawlus/), [LinkedIn](https://www.linkedin.com/in/qarawlus))
 * Sven Uthe, Paderborn University
 
+<p align="center">
+	<img src="assets/software_campus.png" width="200"/>
+	<img src="assets/BMBF_sponsored_by.jpg" width="200"/>
+</p>
 *Logo made with [DesignEvo](https://www.designevo.com/en/). Website built with Jekyll and the [Cayman theme](https://github.com/pages-themes/cayman).*
