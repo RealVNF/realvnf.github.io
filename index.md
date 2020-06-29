@@ -40,6 +40,7 @@ The goal of the project is to design and develop concepts and algorithms to impr
 
 * Adnan Manzoor, Paderborn University
 * Haydar Qarawlus, Paderborn University
+* Rafael Schellenberg, Paderborn University
 
 <p align="center">
 	<img src="assets/software_campus.png" width="200"/>
