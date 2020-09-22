@@ -14,7 +14,9 @@ The goal of the project is to design and develop concepts and algorithms to impr
 ### Publications
 
 * **Self-Driving Network and Service Coordination Using Deep Reinforcement Learning**
+  
   S. Schneider, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, R. Khalili, and A. Hecker
+  
   IEEE International Conference on Network and Service Management (CNSM), 2020 [[preprint](https://ris.uni-paderborn.de/record/19609)] [[code](https://github.com/RealVNF/deep-rl-network-service-coordination)]
 * **Every Node for Itself: Fully Distributed Service Coordination**
   S. Schneider, L. D. Klenner, H. Karl
