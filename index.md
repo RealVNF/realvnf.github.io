@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<script src="https://kit.fontawesome.com/cd408a8b63.js" crossorigin="anonymous"></script>
 <p align="center"><img src="assets/realvnf_logo.png"/></p>
 # A Software Campus project
 
@@ -16,6 +17,9 @@ The goal of the project is to design and develop concepts and algorithms to impr
 * **Self-Driving Network and Service Coordination Using Deep Reinforcement Learning**
   S. Schneider, A. Manzoor, H. Qarawlus, R. Schellenberg, H. Karl, R. Khalili, and A. Hecker
   IEEE International Conference on Network and Service Management (CNSM), 2020 [[preprint](https://ris.uni-paderborn.de/record/19609)] [[code](https://github.com/RealVNF/deep-rl-network-service-coordination)]
+  
+  <i class="fas fa-award"></i> *Best Student Paper at CNSM 2020*
+  
 * **Every Node for Itself: Fully Distributed Service Coordination**
   S. Schneider, L. D. Klenner, H. Karl
   IEEE International Conference on Network and Service Management (CNSM), 2020 [[preprint](https://ris.uni-paderborn.de/record/19607)] [[code](https://github.com/CN-UPB/distributed-coordination)]
