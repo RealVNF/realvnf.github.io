@@ -10,6 +10,8 @@ RealVNF is a 2-year project (11/2018 to 01/2021) that is funded by the German Mi
 
 The goal of the project is to design and develop concepts and algorithms to improve coordination of chained virtual network functions (VNFs) under realistic conditions, take cloud computing and network softwarization to the next level. A strong focus is on novel approaches leveraging machine learning and reinforcement learning.
 
+Official RealVNF project description: [Software Campus RealVNF website](https://softwarecampus.de/en/project/realvnf-improved-coordination-of-chained-vnfs-under-realistic-conditions/)
+
 ## Project Outcomes
 
 ### Publications
