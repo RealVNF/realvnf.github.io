@@ -67,7 +67,7 @@ Selected repositories:
 * [distributed-coordination](https://github.com/CN-UPB/distributed-coordination): Fully distributed algorithms for highly scalable network & service coordination.
 * [ml-for-resource-allocation](https://github.com/CN-UPB/ml-for-resource-allocation): Machine learning framework for dynamic resource allocation in NFV.
 
-All repositories: https://github.com/RealVNF/
+All repositories: [https://github.com/RealVNF/](https://github.com/RealVNF/)
 
 ### Videos
 
