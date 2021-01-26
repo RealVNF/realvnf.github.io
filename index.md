@@ -12,6 +12,29 @@ The goal of the project is to design and develop concepts and algorithms to impr
 
 Official RealVNF project description: [Software Campus RealVNF website](https://softwarecampus.de/en/project/realvnf-improved-coordination-of-chained-vnfs-under-realistic-conditions/)
 
+## Team
+
+<p align="center">
+	<img src="assets/upb.png" width="200" hspace="20"/>
+	<img src="assets/huawei_horizontal.png" width="200" hspace="20"/>
+</p>
+
+**Project lead:** 
+
+* [Stefan Schneider](https://stefanbschneider.github.io), Paderborn University
+
+**Industrial partners:**
+
+* Artur Hecker, Huawei Munich Research Center
+* Ramin Khalili, Huawei Munich Research Center
+
+**Student researchers and developers:**
+
+* Adnan Manzoor, Paderborn University
+* Haydar Qarawlus, Paderborn University
+* Rafael Schellenberg, Paderborn University
+* Sven Uthe, Paderborn University
+
 ## Project Outcomes
 
 ### Publications
@@ -36,33 +59,28 @@ Official RealVNF project description: [Software Campus RealVNF website](https://
 
 ### Open-Source Repositories
 
+Selected repositories:
+
 * [deep-rl-network-service-coordination](https://github.com/RealVNF/deep-rl-network-service-coordination): A deep reinforcement learning framework for self-driving network & service coordination.
 * [coord-sim](https://github.com/RealVNF/coord-sim): A Python lightweight flow-level simulator for evaluating network & service coordination algorithms.
 * [hierarchical-coordination](https://github.com/CN-UPB/hierarchical-coordination): Hierarchical network & service coordination using a divide-and-conquer strategy
 * [distributed-coordination](https://github.com/CN-UPB/distributed-coordination): Fully distributed algorithms for highly scalable network & service coordination.
 * [ml-for-resource-allocation](https://github.com/CN-UPB/ml-for-resource-allocation): Machine learning framework for dynamic resource allocation in NFV.
 
-## Team
+All repositories: https://github.com/RealVNF/
 
-<p align="center">
-	<img src="assets/upb.png" width="200" hspace="20"/>
-	<img src="assets/huawei_horizontal.png" width="200" hspace="20"/>
-</p>
-**Project lead:** 
+### Videos
 
-* [Stefan Schneider](https://stefanbschneider.github.io), Paderborn University
+Self-Learning Network and Service Coordination (Demo):
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y30V7M5FabA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Industrial partners:**
+Self-Driving Network and Service Coordination Using Deep Reinforcement Learning (Conference Talk at [IEEE CNSM 2020](http://www.cnsm-conf.org/2020/)):
 
-* Artur Hecker, Huawei Munich Research Center
-* Ramin Khalili, Huawei Munich Research Center
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aOf08uCDNO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Student researchers and developers:**
+Fully Distributed Service Coordination (Conference Talk at [IEEE CNSM 2020](http://www.cnsm-conf.org/2020/)):
 
-* Adnan Manzoor, Paderborn University
-* Haydar Qarawlus, Paderborn University
-* Rafael Schellenberg, Paderborn University
-* Sven Uthe, Paderborn University
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rKJoJUte-Hk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align="center">
 	<img src="assets/software_campus.png" width="200"/>
@@ -70,5 +88,5 @@ Official RealVNF project description: [Software Campus RealVNF website](https://
 </p>
 ---
 
-<sup>Logo made with [DesignEvo](https://www.designevo.com/en/). Website built with Jekyll and the [Cayman theme](https://github.com/pages-themes/cayman).</sup>
+<sup>RealVNF logo made with [DesignEvo](https://www.designevo.com/en/). Website built with Jekyll and the [Cayman theme](https://github.com/pages-themes/cayman).</sup>
 
