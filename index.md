@@ -12,6 +12,8 @@ The goal of the project is to design and develop concepts and algorithms to impr
 
 Official RealVNF project description: [Software Campus RealVNF website](https://softwarecampus.de/en/project/realvnf-improved-coordination-of-chained-vnfs-under-realistic-conditions/)
 
+Related blog post: [Lessons learned from leading my first project](https://stefanbschneider.github.io/blog/leadership/2021/01/31/my-first-project.html)
+
 ## Team
 
 <p align="center">
