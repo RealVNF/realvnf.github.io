@@ -41,6 +41,10 @@ Related blog post: [Lessons learned from leading my first project](https://stefa
 
 ### Publications
 
+* **Distributed Online Service Coordination Using Deep Reinforcement Learning**
+  S. Schneider, H. Qarawlus, and H. Karl
+  IEEE International Conference on Distributed Computing Systems (ICDCS), 2021 [[preprint](https://ris.uni-paderborn.de/download/21543/21544/public_author_version.pdf)] [[code](https://github.com/RealVNF/distributed-drl-coordination)]
+  
 * **Divide and Conquer: Hierarchical Network and Service Coordination**
   S. Schneider, M. Jürgens, and H. Karl
   IFIP/IEEE International Symposium on Integrated Network Management (IM), 2021 [[preprint](https://ris.uni-paderborn.de/download/20693/20694/preprint_with_header.pdf)] [[code](https://github.com/CN-UPB/hierarchical-coordination)]         	    
